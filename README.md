@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Modern Javascript
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about ffmpeg
+- 📖 Check out my visual blog: [vlogs](https://vlogs.hashnode.dev/)
 - 📫 Reach me through my email: provicml@gmail.com
 - ⚡ Fun fact: I give great speeches.
 
