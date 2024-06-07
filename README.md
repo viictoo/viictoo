@@ -136,3 +136,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viictoo&" alt="viictoo" width="360"/></p>
 
 ![](https://komarev.com/ghpvc/?username=viictoo&style=flat&abbreviated=true&color=blueviolet)
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://github.com/viictoo/wordcloud/raw/main/assets/alx_wordcloud.png');]{x0000}$}
